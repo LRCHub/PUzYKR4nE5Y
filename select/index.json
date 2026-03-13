@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "finally",
+  "base_artist": "SiLENT←NOiSE",
+  "createdAt": "2026-03-13T02:33:53.743670Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Finally Friday",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/01_Finally_Friday_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Finally Friday (Album Version)",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/02_Finally_Friday_(Album_Version)_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Finally",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/03_Finally_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Finally Falling",
+      "artist": "Mayer Hawthorne",
+      "has_synced": true,
+      "path": "select/04_Finally_Falling_Mayer_Hawthorne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Finally Found You",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/05_Finally_Found_You_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm Looking Forward To Joining You, Finally",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/06_I'm_Looking_Forward_To_Joining_You,_Finally_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "FINALLY",
+      "artist": "Cochise",
+      "has_synced": true,
+      "path": "select/07_FINALLY_Cochise.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Finally (feat. Julie McKnight) - Extended Mix",
+      "artist": "Kings Of Tomorrow feat. Julie McKnight",
+      "has_synced": false,
+      "path": "select/08_Finally_(feat._Julie_McKnight)_-_Extended_Mix_Kings_Of_Tomorrow_feat._Julie_McKnight.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Finally",
+      "artist": "Toy-Box",
+      "has_synced": true,
+      "path": "select/09_Finally_Toy-Box.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Finally Free",
+      "artist": "Yak Gotti",
+      "has_synced": false,
+      "path": "select/10_Finally_Free_Yak_Gotti.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Finally Found A Home",
+      "artist": "Huey Lewis & The News",
+      "has_synced": false,
+      "path": "select/11_Finally_Found_A_Home_Huey_Lewis_&_The_News.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Finally Found A Home",
+      "artist": "Huey Lewis and The News",
+      "has_synced": false,
+      "path": "select/12_Finally_Found_A_Home_Huey_Lewis_and_The_News.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Finally Got the Nerve",
+      "artist": "Patti LaBelle",
+      "has_synced": true,
+      "path": "select/13_Finally_Got_the_Nerve_Patti_LaBelle.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Finally We're Back Together",
+      "artist": "Patti LaBelle",
+      "has_synced": true,
+      "path": "select/14_Finally_We're_Back_Together_Patti_LaBelle.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Has Finally Come",
+      "artist": "Patti LaBelle",
+      "has_synced": false,
+      "path": "select/15_Love_Has_Finally_Come_Patti_LaBelle.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "...And Finally",
+      "artist": "M People",
+      "has_synced": false,
+      "path": "select/16_...And_Finally_M_People.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Finally Ready (feat. Billy Porter) [Dimitri From Paris TSOP - The Sound Of Paris - Remix]",
+      "artist": "The Shapeshifters",
+      "has_synced": true,
+      "path": "select/17_Finally_Ready_(feat._Billy_Porter)_[Dimitri_From_Paris_TSOP_-_The_Sound_Of_Paris_The_Shapeshifters.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Finally Ready (feat. Billy Porter) (Dimitri From Paris TSOP - The Sound Of Paris - Remix)",
+      "artist": "The Shapeshifters / Billy Porter",
+      "has_synced": true,
+      "path": "select/18_Finally_Ready_(feat._Billy_Porter)_(Dimitri_From_Paris_TSOP_-_The_Sound_Of_Paris_The_Shapeshifters___Billy_Porter.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "finally",
+      "artist": "SiLENT←NOiSE",
+      "has_synced": false,
+      "path": "select/pl_01_finally_SiLENT←NOiSE.txt"
+    }
+  ]
+}
